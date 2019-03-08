@@ -1,6 +1,6 @@
-[![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.csharp.svg)](https://circleci.com/gh/contentful/the-example-app.csharp)
+[![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.csharp.svg)](https://circleci.com/gh/contentful/the-example-app.csharp)ab
 
-## The ASP.NET example app
+## The ASP.NET example app 
 
 The ASP.NET example app teaches the very basics of how to work with Contentful:
 
