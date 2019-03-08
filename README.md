@@ -1,4 +1,4 @@
-[![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.csharp.svg)](https://circleci.com/gh/contentful/the-example-app.csharp)ab
+[![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.csharp.svg)](https://circleci.com/gh/contentful/the-example-app.csharp)
 
 ## The ASP.NET example app 
 
